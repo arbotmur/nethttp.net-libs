@@ -1,0 +1,9 @@
+code{
+    display:block;
+    border : 2px solid #090;
+}
+#libs-form fieldset{
+    margin-bottom:1em;
+    border-left: 10px solid #E9E9E9;
+    padding:1em;
+}
